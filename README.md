@@ -1,2 +1,2 @@
-Nama  : Henny Kartika \n
+Nama  : Henny Kartika
 NIM   : 2110817120003
