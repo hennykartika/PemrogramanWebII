@@ -1,5 +1,3 @@
-## Nama :
-Henny Kartika
+## Nama : Henny Kartika
 
-## NIM :
-2110817120003
+## NIM  : 2110817120003
